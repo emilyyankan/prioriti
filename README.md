@@ -26,9 +26,8 @@ This project is actively evolving as I learn more about:
 
 ---
 
-## Screenshots (coming soon)
-
----
+## Screenshots
+<img src="phase1-app.png" width="350" alt="Home screen preview">
 
 ## Why I'm Building This
 
@@ -39,7 +38,7 @@ I'm using **Prioriti** as a playground to apply SwiftUI concepts in a real-world
 ## Built With
 
 - [Swift](https://swift.org/)
-- [SwiftUI](https://developer.apple.com/xcode/swiftui/)
+- [SwiftUI](https://developer.apple.com/documentation/swiftui/)
 - Xcode
 
 ---

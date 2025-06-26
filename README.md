@@ -22,7 +22,6 @@ This project is actively evolving as I learn more about:
 - MVP architecture
 - Data persistence with UserDefaults and Core Data
 - Unit testing and UI testing
-- App Store distribution
 
 ---
 

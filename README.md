@@ -1,6 +1,6 @@
 # Prioriti
 
-**Prioriti** is a simple, card-style reminder app built with **SwiftUI**.  
+**Prioriti** is a simple reminder app built with **SwiftUI**.  
 This is an ongoing project I’m using to learn Swift and iOS development through hands-on exploration of app architecture, SwiftUI components, state management, and system features like local notifications.
 
 ---
@@ -36,7 +36,7 @@ I'm using **Prioriti** as a playground to apply SwiftUI concepts in a real-world
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - [Swift](https://swift.org/)
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
@@ -44,7 +44,7 @@ I'm using **Prioriti** as a playground to apply SwiftUI concepts in a real-world
 
 ---
 
-## 📬 Feedback or Ideas?
+## Feedback or Ideas?
 
 Feel free to open an issue or submit a pull request if you have suggestions or want to collaborate!
 
